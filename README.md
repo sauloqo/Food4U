@@ -34,7 +34,7 @@ Documentação do Postman: https://documenter.getpostman.com/view/9731752/Szmb6z
 
 ## Contato
 
-Nome: Saulo Quaresma Oliveira
-Linkedin: https://www.linkedin.com/in/saulo-quaresma-oliveira-843b3293/
-Email: sauloquaresma@gmail.com
+Nome: Saulo Quaresma Oliveira  <br />
+Linkedin: https://www.linkedin.com/in/saulo-quaresma-oliveira-843b3293/  <br />
+Email: sauloquaresma@gmail.com  <br />
 Telefone: (48) 98490-8951
